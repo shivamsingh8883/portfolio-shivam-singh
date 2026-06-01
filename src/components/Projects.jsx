@@ -4,20 +4,20 @@ function Projects() {
       title: "Learning Dashboard",
       description:
         "Modern learning platform with animated course cards, progress tracking, and responsive design.",
-      tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Framer Motion", "Supabase", "Lucide React"]
+      tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Framer Motion", "Supabase", "Lucide React"],
       link: "https://learning-dashboard-4tj6.vercel.app",
     },
     {
       title: "Weather App",
       description: "Search GitHub users and view their repositories.",
-      tech: ["React", "Tailwind CSS", "JavaScript", "HTML5", "CSS3", "OpenWeatherMap API"]
-      link: "https://learning-react-5ead.vercel.app",
+      tech: ["React", "Tailwind CSS", "JavaScript", "HTML5", "CSS3", "OpenWeatherMap API"],
+      link: "https://weather-app-v2-sable.vercel.app",
     },
     {
       title: "GitHub User Finder",
       description: "Manage your daily tasks with a clean, simple interface.",
       tech: ["React", "GitHub API", "Tailwind CSS"],
-      link: "https://learning-react-a3l7.vercel.app",
+      link: "https://github-user-finder-two-nu.vercel.app",
     },
   ];
 

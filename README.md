@@ -22,7 +22,7 @@ Modern learning platform with animated course cards, progress tracking, and resp
 - Smooth animations with Framer Motion
 - Dark mode UI with gradient accents
 
-### 2. [Weather App](https://learning-react-5ead.vercel.app)
+### 2. [Weather App](https://weather-app-v2-sable.vercel.app)
 Real-time weather application with favorites list and 5-day forecast.
 - Search cities and view current weather
 - Add/remove cities to favorites
@@ -30,7 +30,7 @@ Real-time weather application with favorites list and 5-day forecast.
 - 5-day weather forecast
 - Built with React, Tailwind CSS, OpenWeatherMap API
 
-### 3. [GitHub User Finder](https://learning-react-a3l7.vercel.app)
+### 3. [GitHub User Finder](https://github-user-finder-two-nu.vercel.app)
 Search GitHub profiles and explore user repositories with detailed stats.
 - Search any GitHub user
 - View profile info (followers, following, repos count)
