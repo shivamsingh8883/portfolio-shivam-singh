@@ -16,8 +16,6 @@ My personal portfolio website showcasing frontend development projects and skill
 
 ## Projects
 
-
-
 ### 1. [Learning Dashboard](https://learning-dashboard-olive.vercel.app)
 Modern learning platform with animated course cards, progress tracking, and responsive design.
 - Server-side data fetching with Supabase
