@@ -1,22 +1,23 @@
 function Projects() {
   const projects = [
     {
+      title: "Learning Dashboard",
+      description:
+        "Modern learning platform with animated course cards, progress tracking, and responsive design.",
+      tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Framer Motion", "Supabase", "Lucide React"]
+      link: "https://learning-dashboard-4tj6.vercel.app",
+    },
+    {
       title: "Weather App",
-      description: "Real-time weather data with 5-day forecast and favorites.",
-      tech: ["React", "REST API", "Tailwind CSS"],
+      description: "Search GitHub users and view their repositories.",
+      tech: ["React", "Tailwind CSS", "JavaScript", "HTML5", "CSS3", "OpenWeatherMap API"]
       link: "https://learning-react-5ead.vercel.app",
     },
     {
       title: "GitHub User Finder",
-      description: "Search GitHub users and view their repositories.",
+      description: "Manage your daily tasks with a clean, simple interface.",
       tech: ["React", "GitHub API", "Tailwind CSS"],
       link: "https://learning-react-a3l7.vercel.app",
-    },
-    {
-      title: "Task Manager",
-      description: "Manage your daily tasks with a clean, simple interface.",
-      tech: ["JavaScript", "DOM", "Local Storage"],
-      link: "https://github.com/shivamsingh8883/learning-react",
     },
   ];
 
@@ -41,7 +42,7 @@ function Projects() {
               rel="noopener noreferrer"
               className="text-blue-400 hover:text-blue-300 font-semibold"
             >
-              View on GitHub →
+              Explore →
             </a>
           </div>
         ))}
