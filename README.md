@@ -2,7 +2,7 @@
 
 My personal portfolio website showcasing frontend development projects and skills.
 
-**View Portfolio:** [https://learning-react-nine-lovat.vercel.app](https://learning-react-nine-lovat.vercel.app)
+**View Portfolio:** [https://portfolio-shivam-singh.vercel.app](https://portfolio-shivam-singh.vercel.app)
 
 ## Tech Stack
 - Next.js
